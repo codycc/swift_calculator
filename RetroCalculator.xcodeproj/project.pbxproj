@@ -14,6 +14,8 @@
 		0BDD2BA91D873DF500DF8BBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BDD2BA71D873DF500DF8BBF /* LaunchScreen.storyboard */; };
 		0BDD2BB41D873DF500DF8BBF /* RetroCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDD2BB31D873DF500DF8BBF /* RetroCalculatorTests.swift */; };
 		0BDD2BBF1D873DF500DF8BBF /* RetroCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDD2BBE1D873DF500DF8BBF /* RetroCalculatorUITests.swift */; };
+		0BDD2BCD1D874B7100DF8BBF /* Minecrafter.Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0BDD2BCC1D874B7100DF8BBF /* Minecrafter.Reg.ttf */; };
+		0BDD2BCF1D874C8600DF8BBF /* btn 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0BDD2BCE1D874C8600DF8BBF /* btn 2.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		0BDD2BBA1D873DF500DF8BBF /* RetroCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RetroCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BDD2BBE1D873DF500DF8BBF /* RetroCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetroCalculatorUITests.swift; sourceTree = "<group>"; };
 		0BDD2BC01D873DF500DF8BBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BDD2BCC1D874B7100DF8BBF /* Minecrafter.Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Reg.ttf; sourceTree = "<group>"; };
+		0BDD2BCE1D874C8600DF8BBF /* btn 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "btn 2.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		0BDD2B9D1D873DF500DF8BBF /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				0BDD2BCE1D874C8600DF8BBF /* btn 2.wav */,
+				0BDD2BCC1D874B7100DF8BBF /* Minecrafter.Reg.ttf */,
 				0BDD2B9E1D873DF500DF8BBF /* AppDelegate.swift */,
 				0BDD2BA01D873DF500DF8BBF /* ViewController.swift */,
 				0BDD2BA21D873DF500DF8BBF /* Main.storyboard */,
@@ -235,6 +241,8 @@
 				0BDD2BA91D873DF500DF8BBF /* LaunchScreen.storyboard in Resources */,
 				0BDD2BA61D873DF500DF8BBF /* Assets.xcassets in Resources */,
 				0BDD2BA41D873DF500DF8BBF /* Main.storyboard in Resources */,
+				0BDD2BCD1D874B7100DF8BBF /* Minecrafter.Reg.ttf in Resources */,
+				0BDD2BCF1D874C8600DF8BBF /* btn 2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
